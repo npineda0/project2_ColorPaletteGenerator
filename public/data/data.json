@@ -1,0 +1,35 @@
+//4 rows for color generator 
+rows: [
+    {
+        name: "null",   //will change w/ every hex color
+        options: [
+            {id: 0, lockColor: "lock"},
+            {id: 1, saveColor: "save"},
+            {id: 2, copyColor: "copy"}
+        ]
+    }
+    {
+        name: "null",   //will change w/ every hex color
+        options: [
+            {id: 0, lockColor: "lock"},
+            {id: 1, saveColor: "save"},
+            {id: 2, copyColor: "copy"}
+        ]
+    }
+    {
+        name: "null",   //will change w/ every hex color
+        options: [
+            {id: 0, lockColor: "lock"},
+            {id: 1, saveColor: "save"},
+            {id: 2, copyColor: "copy"}
+        ]
+    }
+    {
+        name: "null",   //will change w/ every hex color
+        options: [
+            {id: 0, lockColor: "lock"},
+            {id: 1, saveColor: "save"},
+            {id: 2, copyColor: "copy"}
+        ]
+    }
+]
